@@ -1,0 +1,1512 @@
+[
+  {
+    "index": 0,
+    "question": "Place, Tickets, PopCorn, Film, Building",
+    "answer": "Theater"
+  },
+  {
+    "index": 1,
+    "question": "Profession, Sea, Net, Fish, Boat",
+    "answer": "FISHERMAN"
+  },
+  {
+    "index": 2,
+    "question": "Shoes, Net, Racket, Shuttlecock",
+    "answer": "BADMINTON"
+  },
+  {
+    "index": 3,
+    "question": "Bottles, Fruits, Vegetables, Cold",
+    "answer": "REFRIGERATOR"
+  },
+  {
+    "index": 4,
+    "question": "Deer, Forest, Rifle, Target",
+    "answer": "HUNTER"
+  },
+  {
+    "index": 5,
+    "question": "Night, Mattress, Pillow, Break",
+    "answer": "SLEEP"
+  },
+  {
+    "index": 6,
+    "question": "Electricity, Setop Box, Broadcast, Remote",
+    "answer": "TELEVISION"
+  },
+  {
+    "index": 7,
+    "question": "Road, Siren, Emergency, Fast",
+    "answer": "AMBULAN"
+  },
+  {
+    "index": 8,
+    "question": "Cheese, Cow, Glass, Baby",
+    "answer": "MILK"
+  },
+  {
+    "index": 9,
+    "question": "Money, Coins, Pocket, ATM Card",
+    "answer": "WALLET"
+  },
+  {
+    "index": 10,
+    "question": "Object, Thief, Hand, Police, Key",
+    "answer": "HANDCUFFS"
+  },
+  {
+    "index": 11,
+    "question": "Profession, Magnifying glass, Sherlock, Mystery",
+    "answer": "DETECTIVE"
+  },
+  {
+    "index": 12,
+    "question": "Steel, Sharp, Cut Fruit",
+    "answer": "KNIFE"
+  },
+  {
+    "index": 13,
+    "question": "Place, Hungry, Eat, Chef, Price List",
+    "answer": "RESTAURANT"
+  },
+  {
+    "index": 14,
+    "question": "Objects, Pair, Right, Left, Runing",
+    "answer": "SHOE"
+  },
+  {
+    "index": 15,
+    "question": "Living Creature, Red...., Horns",
+    "answer": "BULL"
+  },
+  {
+    "index": 16,
+    "question": "Place, Building, Sleeping, Keys, Reception",
+    "answer": "HOTEL"
+  },
+  {
+     "index": 16,
+     "question": "Ring, Championship, Hand, Sports",
+     "answer": "FIST"
+   },
+   {
+     "index": 18,
+     "question": "Number, Date, Month, Year, Day",
+     "answer": "CALENDAR"
+   },
+   {
+     "index": 19,
+     "questions": "Activities, Water, Soap, Towels",
+     "answer": "SHOWER"
+   },
+   {
+     "index": 20,
+     "about": "Objects, Fragrance, Foam, Bath",
+     "answer": "SOAP"
+   },
+   {
+     "index": 21,
+     "question": "Object, Sleep, Mattress, Long, Soft",
+     "answer": "ROLL"
+   },
+   {
+     "index": 22,
+     "question": "Object, Electricity, On, Switch",
+     "answer": "LIGHTS"
+   },
+   {
+     "index": 23,
+     "question": "Objects, Drink, Sick, Doctor, Pharmacy",
+     "answer": "MEDICATION"
+   },
+   {
+     "index": 24,
+     "question": "Object, Pain, Doctor, Armpit, Degree",
+     "answer": "THEMOMETER"
+   },
+   {
+     "index": 25,
+     "question": "Blood, Night, Itching, Creatures",
+     "answer": "MOSQUITO"
+   },
+   {
+     "index": 26,
+     "questions": "Countries, Arts, Football, Pizza, Pisa",
+     "answer": "ITALY"
+   },
+   {
+     "index": 27,
+     "question": "Cave, Night, Dark, Living Creatures",
+     "answer": "BAT"
+   },
+   {
+     "index": 28,
+     "question": "Coconut, Sand, Sea, Place",
+     "answer": "BEACH"
+   },
+   {
+     "index": 29,
+     "question": "Things, Clowns, Kids, Birthdays, Exploding",
+     "answer": "BALLOONS"
+   },
+   {
+     "index": 30,
+     "question": "Object, Witch, Office Boy",
+     "answer": "BROOM"
+   },
+   {
+     "index": 31,
+     "question": "Origami, Sakura, Sumo, Sushi",
+     "answer": "JAPANESE"
+   },
+   {
+     "index": 32,
+     "about": "Girl, Lips, Red, Beauty",
+     "answer": "LIPSTICK"
+   },
+   {
+     "index": 33,
+     "question": "King, Flesh, Forest, Fangs",
+     "answer": "LION"
+   },
+   {
+     "index": 34,
+     "question": "Wallet, ATM, Bank",
+     "answer": "MONEY"
+   },
+   {
+     "index": 35,
+     "question": "Number, Time, Needle, Hand",
+     "answer": "WATCH"
+   },
+   {
+     "index": 36,
+     "question": "Cook, Chef, Fire",
+     "answer": "STOVE"
+   },
+   {
+     "index": 37,
+     "question": "Cow, Sheep, Green, Field",
+     "answer": "Grass"
+   },
+   {
+     "index": 38,
+     "question": "Fried Chicken, Arabic, Gas Station, Katel",
+     "answer": "OIL"
+   },
+   {
+     "index": 39,
+     "question": "Doors, Cupboards, Cars, Padlocks",
+     "answer": "KEY"
+   },
+   {
+     "index": 40,
+     "question": "Caterpillar, Flower, Animal",
+     "answer": "Butterfly"
+   },
+  {
+     "index": 41,
+     "question": "Cars, Motorbikes, Noise, Pollution",
+     "answer": "EXHAUST"
+   },
+   {
+     "index": 42,
+     "question": "Judge, Nail, Thor",
+     "answer": "HAMER"
+   },
+   {
+     "index": 43,
+     "question": "Finger, Gift, Wedding, Couple",
+     "answer": "RING"
+   },
+   {
+     "index": 44,
+     "question": "Rice, Meat, Chopsticks, Japanese",
+     "answer": "SUSHI"
+   },
+   {
+     "index": 45,
+     "question": "Book, Keep Noise, Room, Reading",
+     "answer": "LIBRARY"
+   },
+   {
+     "index": 46,
+     "question": "Television, Battre, Halilintar, Voltage",
+     "answer": "ELECTRICITY"
+   },
+   {
+     "index": 47,
+     "question": "Driver, Street, Destination, Pay",
+     "answer": "TAXI"
+   },
+   {
+     "index": 48,
+     "about": "Soybeans, Delicious, Cooking",
+     "answer": "SOY SAUCE"
+   },
+   {
+     "index": 49,
+     "question": "Smell, Poop, Men, Women",
+     "answer": "TOILET"
+   },
+   {
+     "index": 50,
+     "question": "Bamboo, China, Black, White, Cute",
+     "answer": "PANDA"
+   },
+   {
+     "index": 51,
+     "question": "Morning, Bread, Milk",
+     "answer": "BREAKFAST"
+   },
+   {
+     "index": 52,
+     "question": "Spider, Web, Red, Blue",
+     "answer": "SPIDERMAN"
+   },
+   {
+     "index": 53,
+     "question": "Above, Respect, Country",
+     "answer": "FLAG"
+   },
+   {
+     "index": 54,
+     "question": "Eye, Magnifier, Bacteria, Researcher",
+     "answer": "MICROSCOPE"
+   },
+   {
+     "index": 55,
+     "question": "Apolo, Moon",
+     "answer": "ASTRONAUTE"
+   },
+   {
+     "index": 56,
+     "question": "Tools, Vehicles, Repairs",
+     "answer": "MECHANIC"
+   },
+   {
+     "index": 57,
+     "question": "Cellphone, Remote, Plus, Minus, Toy",
+     "answer": "BATTERY"
+   },
+   {
+     "index": 58,
+     "question": "Bear, Bee, Flower",
+     "answer": "HONEY"
+   },
+   {
+     "index": 59,
+     "question": "Mouse, Fish, Bell",
+     "answer": "CAT"
+   },
+   {
+     "index": 60,
+     "question": "Medal, Trophy, No1, Win",
+     "answer": "CHAMPION"
+   },
+   {
+     "index": 61,
+     "question": "Hot, Clothes, Electric, Neat",
+     "answer": "IRON"
+   },
+   {
+     "index": 62,
+     "question": "Balloons, Cake, Gifts, Candles",
+     "answer": "BIRTHDAY"
+   },
+   {
+     "index": 63,
+     "question": "Motor, Head, Rider",
+     "answer": "HELMET"
+   },
+   {
+     "index": 64,
+     "question": "Airplane, Female, Friendly",
+     "answer": "FIGHTERFIGHTER"
+   },
+   {
+     "index": 65,
+     "question": "Smell, Stomach Pain, Noise",
+     "answer": "FART"
+   },
+   {
+     "index": 66,
+     "question": "Iron, Sun, Fire, Hell",
+     "answer": "HOT"
+   },
+   {
+     "index": 67,
+     "question": "Six, Dots, Squares, Shuffled",
+     "answer": "DICE"
+   },
+   {
+     "index": 68,
+     "question": "Colorful, Rain",
+     "answer": "RAINBOW"
+   },
+   {
+     "index": 69,
+     "question": "Sweet, Ants, Toothache, Children",
+     "answer": "CANDY"
+   },
+   {
+     "index": 70,
+     "question": "Car, Motorbike, Noisy, Noise",
+     "answer": "HORN"
+   },
+  {
+     "index": 71,
+     "question": "Jump, Pocket, Australia",
+     "answer": "KANGAROO"
+   },
+   {
+     "index": 72,
+     "question": "Diamonds, Gold, Maps, Secrets",
+     "answer": "TREASURE"
+   },
+   {
+     "index": 73,
+     "question": "Eyes, Soup, Orange, Rabbit",
+     "answer": "CARROT"
+   },
+   {
+     "index": 74,
+     "question": "Syringe, Needle, Red, Mosquito",
+     "answer": "BLOOD"
+   },
+   {
+     "index": 75,
+     "question": "Salted, Sea, White, Cooking",
+     "answer": "SALT"
+   },
+   {
+     "index": 76,
+     "question": "Nose, Oxygen, Chest, Breath",
+     "answer": "LUNGS"
+   },
+   {
+     "index": 77,
+     "question": "Waist, Length",
+     "answer": "BELT"
+   },
+   {
+     "index": 78,
+     "question": "Head, Medicine",
+     "answer": "Dizziness"
+   },
+   {
+     "index": 79,
+     "question": "Trash, Germs, Fly, Stomach Ache",
+     "answer": "FLY"
+   },
+   {
+     "index": 80,
+     "question": "Robot, Japanese Cat",
+     "answer": "DORAEMON"
+   },
+   {
+     "index": 81,
+     "question": "12, Month, New Year, Christmas",
+     "answer": "DECEMBER"
+   },
+   {
+     "index": 82,
+     "question": "Green, Jump, Water, Land",
+     "answer": "FROG"
+   },
+   {
+     "index": 83,
+     "question": "Back, Seleting, Book",
+     "answer": "BAG"
+   },
+   {
+     "index": 84,
+     "question": "Camel, Pyramid, Cactus, Dry",
+     "answer": "DESERT"
+   },
+   {
+     "index": 85,
+     "question": "White, Thin, Wipe, Toilet",
+     "answer": "Tissue"
+   },
+   {
+     "index": 86,
+     "question": "Up and Down, Jacket, Pants, Bag",
+     "answer": "ZIPPER"
+   },
+   {
+     "index": 87,
+     "question": "Dive, Drink, Flush, Fish",
+     "answer": "WATER"
+   },
+   {
+     "index": 88,
+     "question": "A Pair, Hearing",
+     "answer": "EARS"
+   },
+   {
+     "index": 89,
+     "question": "Milk, Teeth, Paper",
+     "answer": "WHITE"
+   },
+   {
+     "index": 90,
+     "question": "Nose, Long, Lie, Wood",
+     "answer": "PINOKIO"
+   },
+   {
+     "index": 91,
+     "question": "UFO, Planet",
+     "answer": "ALIEN"
+   },
+   {
+     "index": 92,
+     "question": "Hearing, Sound, Distance",
+     "answer": "PHONE"
+   },
+   {
+     "index": 93,
+     "question": "Up, Down, Feet",
+     "answer": "LADDER"
+   },
+   {
+     "index": 94,
+     "question": "Head, Scorching, Beach",
+     "answer": "HAT"
+   },
+   {
+     "index": 95,
+     "question": "Bird, Plane, Mosquito, Superman",
+     "answer": "FLY"
+   },
+   {
+     "index": 96,
+     "question": "Sleep, Brisik",
+     "answer": "SNORING"
+   },
+   {
+     "index": 97,
+     "question": "North, South, Compass, Sticking",
+     "answer": "MAGNET"
+   },
+   {
+     "index": 98,
+     "question": "Machinist, Pluit, Ticket, Rail",
+     "answer": "TRAILWAY"
+   },
+   {
+     "index": 99,
+     "question": "Reading, Eyes, Letters",
+     "answer": "GLASSES"
+   },
+   {
+     "index": 100,
+     "question": "Ball, Hands, Goal",
+     "answer": "GOALKEEPER"
+   },
+   {
+     "index": 101,
+     "question": "Taj Mahal, Bajaj, Snake, Elephant",
+     "answer": "INDIA"
+   },
+   {
+     "index": 102,
+     "question": "Cards, Sticks, Rabbit, Bird",
+     "answer": "MAGIC"
+   },
+   {
+     "index": 103,
+     "question": "Paper, Bird, Axe, Oxygen",
+     "answer": "TREE"
+   },
+   {
+     "index": 104,
+     "question": "Sharp, Fish, Dangerous",
+     "answer": "PIRANHA"
+   },
+   {
+     "index": 105,
+     "question": "Type, Finger, Computer, Letter",
+     "answer": "KEYBOARD"
+   },
+   {
+     "index": 106,
+     "question": "Mouth, Plastic, Long, Drink",
+     "answer": "STRAW"
+   },
+   {
+     "index": 107,
+     "question": "Steering Wheel, Wheels, Donuts",
+     "answer": "CIRCLE"
+   },
+   {
+     "index": 108,
+     "question": "Yellow, Monkey",
+     "answer": "BANANA"
+   },
+   {
+     "index": 109,
+     "question": "Fire, Blow, Cake",
+     "answer": "CANDLE"
+   },
+   {
+     "index": 110,
+     "question": "Propeller, Pilot, Cloud",
+     "answer": "AIRCRAFT"
+   },
+   {
+     "index": 111,
+     "question": "Cowboy, Poultice, Grass",
+     "answer": "HORSE"
+   },
+   {
+     "index": 112,
+     "question": "Food, Italian, Round, Grilled",
+     "answer": "PIZZA"
+   },
+   {
+     "index": 113,
+     "question": "Cheese, Windmill, Tulip",
+     "answer": "THE NETHERLANDS"
+   },
+   {
+     "index": 114,
+     "question": "Duck, Chicken, Round",
+     "answer": "EGGS"
+   },
+   {
+     "index": 115,
+     "question": "Water, Tap, Length",
+     "answer": "PIPE"
+   },
+   {
+     "index": 116,
+     "question": "Mucus, Nose, Congestion, Tissue",
+     "answer": "COLD"
+   },
+   {
+     "index": 117,
+     "question": "Shoot, Drink",
+     "answer": "TEA"
+   },
+   {
+     "index": 118,
+     "question": "Wallet, Identity, Address, Telephone",
+     "answer": "NAME CARD"
+   },
+   {
+     "index": 119,
+     "question": "Baby, Pee, Soft",
+     "answer": "NAPER"
+   },
+   {
+     "index": 120,
+     "question": "Flash, Photo, Lens",
+     "answer": "CAMERA"
+   },
+  {
+     "index": 121,
+     "matter": "Thin, Fine, Needle",
+     "answer": "THREAD"
+   },
+   {
+     "index": 122,
+     "question": "Object, String, Pluck",
+     "answer": "GUITAR"
+   },
+   {
+     "index": 123,
+     "question": "Shirt, Pants, Jacket",
+     "answer": "CLOTHING"
+   },
+   {
+     "index": 124,
+     "question": "Objects, Moving, Machines",
+     "answer": "ROBOT"
+   },
+   {
+     "index": 125,
+     "question": "Vehicles, 3 Wheels, Cars",
+     "answer": "BAJAJ"
+   },
+   {
+     "index": 126,
+     "question": "Bachelor, Hajj, Master",
+     "answer": "DEGREE"
+   },
+   {
+     "index": 127,
+     "question": "Art, Displayed, Wall, Aesthetic",
+     "answer": "PAAINTING"
+   },
+   {
+     "index": 128,
+     "question": "Giants, Animals, Lizards, Indonesia",
+     "answer": "KOMODO"
+   },
+   {
+     "index": 129,
+     "question": "Land transportation, Wheels, Wood, Horses",
+     "answer": "ANDONG"
+   },
+   {
+     "index": 130,
+     "question": "School, Board, Write, White",
+     "answer": "LIME"
+   },
+   {
+     "index": 131,
+     "question": "Vehicles, Transportation, Land, Asphalt",
+     "answer": "WAY"
+   },
+   {
+     "index": 132,
+     "question": "Electronics, Box, Frequency, Sound",
+     "answer": "RADIO"
+   },
+   {
+     "index": 133,
+     "question": "Clay, Objects, Roof, House",
+     "answer": "TILE"
+   },
+   {
+     "index": 134,
+     "question": "Night, Wings, Black, Blood",
+     "answer": "BAT"
+   },
+   {
+     "index": 135,
+     "question": "Triangle, Egypt, Pharaoh",
+     "answer": "PYRAMID"
+   },
+   {
+     "index": 136,
+     "matter": "Grainy, Gritty, Sweet",
+     "answer": "SUGAR"
+   },
+   {
+     "index": 137,
+     "question": "Musical Instruments, Sundanese, Bamboo, Sound",
+     "answer": "ANGKLUNG"
+   },
+   {
+     "index": 138,
+     "question": "Paddy, Grain, Dry, Grain",
+     "answer": "RICE"
+   },
+   {
+     "index": 139,
+     "question": "House, Tribe, Mountains, Sulawesi",
+     "answer": "TORAJA"
+   },
+   {
+     "index": 140,
+     "question": "Transportation, Water, Wood, Paddles",
+     "answer": "BOAT"
+   },
+   {
+     "index": 141,
+     "question": "Morning, Mountains, View, Cold",
+     "answer": "FOG"
+   },
+   {
+     "index": 142,
+     "question": "Base, Feet, Rope",
+     "answer": "SHOES"
+   },
+   {
+     "index": 143,
+     "question": "Grass, Beard, Horns, Sate",
+     "answer": "GOAT"
+   },
+   {
+     "index": 144,
+     "question": "Cooking, Liquid, slippery, Fried",
+     "answer": "OIL"
+   },
+   {
+     "index": 145,
+     "question": "Round, Throw, Kick",
+     "answer": "BALL"
+   },
+   {
+     "index": 146,
+     "question": "Two-wheeled, Foot, Pedal, Sports",
+     "answer": "BIKE"
+   },
+   {
+     "index": 147,
+     "question": "Number, Small, Calculate, Tool",
+     "answer": "CALCULATOR"
+   },
+   {
+     "index": 148,
+     "question": "Small, Group, Nest, Animal",
+     "answer": "ANT"
+   },
+   {
+     "index": 149,
+     "question": "Beach, Animals, Invertebrates, Pincers",
+     "answer": "CRAB"
+   },
+   {
+     "index": 150,
+     "question": "Entertain, Sule, Laugh",
+     "answer": "JOKER"
+   },
+   {
+     "index": 151,
+     "question": "Wipe, Cloth, Dry, Shower",
+     "answer": "TOWEL"
+   },
+   {
+     "index": 152,
+     "question": "Round, Hole, Flour",
+     "answer": "DONUT"
+   },
+   {
+     "index": 153,
+     "question": "Eclipse, Light, Night",
+     "answer": "MONTH"
+   },
+   {
+     "index": 154,
+     "question": "Air, Glass, House",
+     "answer": "WINDOW"
+   },
+   {
+     "index": 155,
+     "question": "Container, Food, Tableware",
+     "answer": "PLATE"
+   },
+   {
+     "index": 156,
+     "question": "Animal, Large, Horn",
+     "answer": "RHINO"
+   },
+   {
+     "index": 157,
+     "question": "Building, Place, Residential",
+     "answer": "HOUSE"
+   },
+   {
+     "index": 158,
+     "question": "Hole, Face, Inhale, Breath",
+     "answer": "NOSE"
+   },
+   {
+     "index": 159,
+     "question": "Tree, Bottom",
+     "answer": "ROOT"
+   },
+   {
+     "index": 160,
+     "question": "Tools, Eating, Piercing",
+     "answer": "FORK"
+   },
+   {
+     "index": 161,
+     "question": "Luabang, Water, Bucket",
+     "answer": "WELL"
+   },
+   {
+     "index": 162,
+     "question": "Part, Back, Animal",
+     "answer": "TAIL"
+   },
+   {
+     "index": 163,
+     "question": "Solar, Earth, Source of Light",
+     "answer": "SUN"
+   },
+   {
+     "index": 164,
+     "question": "Ape, Rare, Forest",
+     "answer": "ORANGUTAN"
+   },
+   {
+     "index": 165,
+     "question": "Water, Flow, Upstream, Downstream",
+     "answer": "RIVER"
+   },
+   {
+     "index": 166,
+     "question": "Fruit, Moon, Coconut Milk",
+     "answer": "COCONUT"
+   },
+   {
+     "index": 167,
+     "question": "Lizard, Change, Color",
+     "answer": "CHAMELON"
+   },
+   {
+     "index": 168,
+     "question": "Company, Country, Oil",
+     "answer": "PERTAMINA"
+   },
+   {
+     "index": 169,
+     "question": "Energy, Radioactivity, Uranium",
+     "answer": "NUCLEAR"
+   },
+   {
+     "index": 170,
+     "question": "Knowledge, Properties, Matter",
+     "answer": "PHYSICS"
+   },
+  {
+     "index": 171,
+     "question": "Galaxies, Solar System",
+     "answer": "Milky Way"
+   },
+   {
+     "index": 172,
+     "question": "Music, Indonesia, Goyang, Gendang",
+     "answer": "DANGDUT"
+   },
+   {
+     "index": 173,
+     "question": "Birds, Rare, Papuan",
+     "answer": "CENDRAWASIH"
+   },
+   {
+     "index": 174,
+     "question": "Iron Bone, Puppet, Flying, Magic",
+     "answer": "GLASS GATOTS"
+   },
+   {
+     "index": 175,
+     "question": "Cucumber, Sour, Salty",
+     "answer": "PICKLE"
+   },
+   {
+     "index": 176,
+     "question": "Room, Wait, Bus",
+     "answer": "Stop"
+   },
+   {
+     "index": 177,
+     "question": "Land, Farmers, Rice",
+     "answer": "rice fields"
+   },
+   {
+     "index": 178,
+     "question": "Baby, Pee, Soft",
+     "answer": "NAPER"
+   },
+   {
+     "index": 179,
+     "question": "Object, Play, Sit, Chain",
+     "answer": "SWING"
+   },
+   {
+     "index": 180,
+     "question": "Place, Item, Room",
+     "answer": "WAREHOUSE"
+   },
+   {
+     "index": 181,
+     "question": "Objects, Places, Store, Clothes",
+     "answer": "CLOSET"
+   },
+   {
+     "index": 182,
+     "question": "Black, White, Rain, Drift",
+     "answer": "CLOUDS"
+   },
+   {
+     "index": 183,
+     "question": "Smoke, Exhaust, Environment",
+     "answer": "POLLUTION"
+   },
+   {
+     "index": 184,
+     "question": "Rice, Sugar, Vegetables",
+     "answer": "GROUP"
+   },
+   {
+     "index": 185,
+     "about": "Vegetable Oil, Coconut Milk, Plants",
+     "answer": "COCONUT"
+   },
+   {
+     "index": 186,
+     "question": "Vehicle, Pedal, Wheel, Three",
+     "answer": "BECAK"
+   },
+   {
+     "index": 187,
+     "question": "Home Protector, Iron, Roadside",
+     "answer": "FENCE"
+   },
+   {
+     "index": 188,
+     "question": "Tools, Dust, Clean",
+     "answer": "FUSTER"
+   },
+   {
+     "index": 189,
+     "question": "Objects, Butts, Trash",
+     "answer": "ASHTRAYS"
+   },
+   {
+     "index": 190,
+     "question": "Place, Up/Down, Floor",
+     "answer": "LIFT"
+   },
+   {
+     "index": 191,
+     "question": "Object, Standing, Length",
+     "answer": "POLE"
+   },
+   {
+     "index": 192,
+     "question": "Salty, White, Cooking",
+     "answer": "SALT"
+   },
+   {
+     "index": 193,
+     "question": "Explosive, Hot, Beautiful, Light",
+     "answer": "FIREWORKS"
+   },
+   {
+     "index": 194,
+     "question": "Event, Inauguration, Pair",
+     "answer": "MARRIAGE"
+   },
+   {
+     "index": 195,
+     "question": "White, Blue, Guarding",
+     "answer": "SATPAM"
+   },
+   {
+     "index": 196,
+     "question": "West, East, North, South",
+     "answer": "COMPASS"
+   },
+   {
+     "index": 197,
+     "question": "Place, Train, Ticket",
+     "answer": "STATION"
+   },
+   {
+     "index": 198,
+     "question": "Transportation, Tricycle, Wood, Horses",
+     "answer": "DELMAN"
+   },
+   {
+     "index": 199,
+     "question": "Bread, Strawberry, Liquid",
+     "answer": "JAM"
+   },
+   {
+     "index": 200,
+     "question": "Pet, Cute, Fangs, Bells",
+     "answer": "CAT"
+   },
+   {
+     "index": 201,
+     "question": "Tube, Water, Glass",
+     "answer": "GLASS"
+   },
+   {
+     "index": 202,
+     "question": "Excavations, Objects, Ancient",
+     "answer": "ARCHAEOLOGY"
+   },
+   {
+     "index": 203,
+     "question": "Ears, Instruments, Music, Sounds",
+     "answer": "EARPHONES"
+   },
+   {
+     "index": 204,
+     "question": "Sit, Relax, Wood, Legs",
+     "answer": "CHAIR"
+   },
+   {
+     "index": 205,
+     "questions": "History, Tourism, Yogya",
+     "answer": "BOROBUDUR"
+   },
+   {
+     "index": 206,
+     "question": "Spiky, Mouth, Food, Tearing",
+     "answer": "FANGS"
+   },
+   {
+     "index": 207,
+     "question": "Ripple, Roll, Water, Beach",
+     "answer": "WAVES"
+   },
+   {
+     "index": 208,
+     "question": "Air, Moving, Cool",
+     "answer": "WIND"
+   },
+   {
+     "index": 209,
+     "question": "Animals, Rare, Forest, Kalimantan",
+     "answer": "ORANG UTAN"
+   },
+   {
+     "index": 210,
+     "question": "Tools, Music, Doremi, Box",
+     "answer": "PIANO"
+   },
+   {
+     "index": 211,
+     "question": "Container, Water, Toilet, Large",
+     "answer": "EMBER"
+   },
+   {
+     "index": 212,
+     "question": "Fruit, Orange, Round",
+     "answer": "Orange"
+   },
+   {
+     "index": 213,
+     "question": "Hair, Neat, Meeting, Tools",
+     "answer": "COMB"
+   },
+   {
+     "index": 214,
+     "question": "Box, Sleep, Soft",
+     "answer": "MATTRESS"
+   },
+   {
+     "index": 215,
+     "question": "Air, Tires, Up/Down",
+     "answer": "PUMP"
+   },
+   {
+     "index": 216,
+     "question": "Thin, Sharp, Thread",
+     "answer": "NEEDLE"
+   },
+   {
+     "index": 217,
+     "question": "Lap, Feet, Cloth",
+     "answer": "MAT"
+   },
+   {
+     "index": 218,
+     "question": "Tv, Device, Remote, Broadcast",
+     "answer": "REMOTE"
+   },
+   {
+     "index": 219,
+     "question": "Honey, Animals, Flying",
+     "answer": "BEES"
+   },
+   {
+     "index": 220,
+     "question": "Animals, Walls, Creeps, Sticks",
+     "answer": "CICAK"
+   },
+   {
+     "index": 221,
+     "question": "Tools, Strings, Sounds, Music",
+     "answer": "VIOL"
+   },
+   {
+     "index": 222,
+     "question": "Long, Electricity, Pln",
+     "answer": "CABLE"
+   },
+   {
+     "index": 223,
+     "question": "Tool, Eat, Sharp",
+     "answer": "FORK"
+   },
+   {
+     "index": 224,
+     "question": "Tools, Cut, Kitchen",
+     "answer": "KNIFE"
+   },
+   {
+     "index": 225,
+     "question": "Fire, Wood, Small",
+     "answer": "MATCHES"
+   },
+   {
+     "index": 226,
+     "questions": "Job, Plane, Riding",
+     "answer": "PILOT"
+   },
+   {
+     "index": 227,
+     "question": "Send, Item, Job",
+     "answer": "COURIER"
+   },
+   {
+     "index": 228,
+     "questions": "Job, Calculate, Shop, Shop",
+     "answer": "CASHIER"
+   },
+   {
+     "index": 229,
+     "question": "Medicine, Occupation, Traditional",
+     "answer": "TABIB"
+   },
+   {
+     "index": 230,
+     "question": "Job, Riding, Delman",
+     "answer": "Charioteer"
+   },
+   {
+     "index": 231,
+     "question": "Tree, Valley, Hill, Bush",
+     "answer": "JUNGLE"
+   },
+   {
+     "index": 232,
+     "question": "Children, Toys, Funny",
+     "answer": "DOLL"
+   },
+   {
+     "index": 233,
+     "question": "Neck, Jewelry, Gold",
+     "answer": "NECKLACE"
+   },
+   {
+     "index": 234,
+     "question": "Transport, Length, Rail",
+     "answer": "TRAIN"
+   },
+   {
+     "index": 235,
+     "question": "Broadcast, Signal, Tv, Device",
+     "answer": "ANTENNA"
+   },
+   {
+     "index": 236,
+     "question": "Place, Vehicle, Storage, Size",
+     "answer": "PARKING"
+   },
+   {
+     "index": 237,
+     "question": "Blow, Sound, Tool",
+     "answer": "trumpet"
+   },
+   {
+     "index": 238,
+     "question": "Fruit, Round, Water, Seed",
+     "answer": "WATERMELON"
+   },
+   {
+     "index": 239,
+     "question": "Place, Teacher, Student, Study",
+     "answer": "SCHOOL"
+   },
+   {
+     "index": 240,
+     "question": "Spooky, Lonely, Place, Dead",
+     "answer": "Grave"
+   },
+   {
+     "index": 241,
+     "question": "Airplane, Ticket, Flight",
+     "answer": "AIRPORT"
+   },
+   {
+     "index": 242,
+     "question": "Arms, Guns, War",
+     "answer": "SOLDIER"
+   },
+   {
+     "index": 243,
+     "question": "Sharp, Wood, Cut",
+     "answer": "SAW"
+   },
+   {
+     "index": 244,
+     "question": "Tool, Explode, Throw, Soldier",
+     "answer": "GERANAT"
+   },
+   {
+     "index": 245,
+     "question": "Box, Computer, Screen, Resolution",
+     "answer": "MONITOR"
+   },
+   {
+     "index": 246,
+     "question": "Box, Glass, House, Front",
+     "answer": "WINDOW"
+   },
+   {
+     "index": 247,
+     "question": "Field Fields, Farmers, Land, Tools",
+     "answer": "HOE"
+   },
+   {
+     "index": 248,
+     "question": "Push, Dealer, Tool, Wheel",
+     "answer": "CARBON"
+   },
+   {
+     "index": 249,
+     "question": "Animal, Neck, Height, Brown",
+     "answer": "GIRAFFE"
+   },
+   {
+     "index": 250,
+     "question": "Sound, Cat, Object, Neck",
+     "answer": "BELL"
+   },
+   {
+     "index": 251,
+     "question": "Sharp, Paper, Cut, Tool",
+     "answer": "SCISSORS"
+   },
+   {
+     "index": 252,
+     "question": "Animal, Carrot, Jump",
+     "answer": "RABBIT"
+   },
+   {
+     "index": 253,
+     "question": "Work, Place, Employee",
+     "answer": "OFFICE"
+   },
+   {
+     "index": 254,
+     "question": "Place, Medicine, Selling, Mixing",
+     "answer": "PHARMACY"
+   },
+   {
+     "index": 255,
+     "question": "Hospital, Caring, Job",
+     "answer": "SISTER"
+   },
+   {
+     "index": 256,
+     "question": "Protecting, Women, Security",
+     "answer": "POLICE WOMAN"
+   },
+   {
+     "index": 257,
+     "question": "Injection, Medicine, Check, Work",
+     "answer": "DOCTOR"
+   },
+   {
+     "index": 258,
+     "question": "Sharp, Knight, Weapon",
+     "answer": "SWORD"
+   },
+   {
+     "index": 259,
+     "question": "Light, Night, Device, Battery",
+     "answer": "FLASHLIGHT"
+   },
+   {
+     "index": 260,
+     "question": "Base, Food, Round, Glass",
+     "answer": "PLATE"
+   },
+   {
+     "index": 261,
+     "question": "Shaving, Wood, Writing, Tools",
+     "answer": "PENCIL"
+   },
+   {
+     "index": 262,
+     "question": "Base, Feet, Rubber",
+     "answer": "SANDALS"
+   },
+   {
+     "index": 263,
+     "question": "Crabs, Pests of Rice Fields, Fresh Water",
+     "answer": "YUYU"
+   },
+   {
+     "index": 264,
+     "question": "Bird, Black, Imitator",
+     "answer": "BEO"
+   },
+   {
+     "index": 265,
+     "questions": "Accounts, Finance, Work",
+     "answer": "ACCOUNTANT"
+   },
+   {
+     "index": 266,
+     "question": "Wavy, Legs, Long, Large",
+     "answer": "TURKEY"
+   },
+   {
+     "index": 267,
+     "questions": "Technology, Designing, Jobs",
+     "answer": "ENGINEER"
+   },
+   {
+     "index": 268,
+     "question": "Claws, Red, Legs 10",
+     "answer": "CRAB"
+   },
+   {
+     "index": 269,
+     "question": "Mercedez Benz, Berlin Wall, Nazis",
+     "answer": "GERMANY"
+   },
+   {
+     "index": 270,
+     "question": "Ship, Captain, Officer",
+     "answer": "CHAIRMAN"
+   },
+   {
+     "index": 271,
+     "question": "Gwyneth Paltrow, Paul Bettany, Johnny Depp",
+     "answer": "MORTDECAI"
+   },
+   {
+     "index": 272,
+     "question": "Curved Back, Consumed, Marine Animals",
+     "answer": "SHRIMP"
+   },
+   {
+     "index": 273,
+     "question": "Editor, News, Manuscript",
+     "answer": "EDITOR"
+   },
+   {
+     "index": 274,
+     "question": "Red Meat, Swimmer, Reliable, Fish",
+     "answer": "TUNA"
+   },
+   {
+     "index": 275,
+     "question": "Knowledgeable, Teacher, School",
+     "answer": "GURU"
+   },
+   {
+     "index": 276,
+     "question": "Job, Demonstration, Product",
+     "answer": "MODEL"
+   },
+   {
+     "index": 277,
+     "matter": "Relief, Legal, Defendant",
+     "answer": "LAWYER"
+   },
+   {
+     "index": 278,
+     "question": "Long Neck, Duck, White",
+     "answer": "GOOSE"
+   },
+   {
+     "index": 279,
+     "question": "Mollusca, Slow, Snail",
+     "answer": "SNAIL"
+   },
+   {
+     "index": 280,
+     "question": "Regency, Civil Servant, Leader",
+     "answer": "REGENCY"
+   },
+   {
+     "index": 281,
+     "question": "Centipedes, Nocturnal, Poisonous",
+     "answer": "Centipede"
+   },
+   {
+     "index": 282,
+     "question": "Black, Sea, Thorny",
+     "answer": "SEA PIG"
+   },
+   {
+     "index": 283,
+     "question": "Grain, Water, Sky",
+     "answer": "RAIN"
+   },
+   {
+     "index": 284,
+     "question": "Keyboard, Monitor, Wifi",
+     "answer": "LAPTOP"
+   },
+   {
+     "index": 285,
+     "question": "Person, Disease, Healed",
+     "answer": "DOCTOR"
+   },
+   {
+     "index": 286,
+     "question": "Fruit, Green, Red",
+     "answer": "WATERMELON"
+   },
+   {
+     "index": 287,
+     "question": "Sports, Badminton, Badminton",
+     "answer": "BADMINTON"
+   },
+   {
+     "index": 288,
+     "question": "Triangle, Rock, Pharaoh",
+     "answer": "PYRAMID"
+   },
+   {
+     "index": 289,
+     "question": "Temple, Majestic, Buddha",
+     "answer": "BOROBUDUR"
+   },
+   {
+     "index": 290,
+     "question": "Sanskrit, State Ideology",
+     "answer": "PANCASILA"
+   },
+   {
+     "index": 291,
+     "question": "Mountain, Java, Highest",
+     "answer": "SEMERU"
+   },
+   {
+     "index": 292,
+     "question": "Ocean, Largest, World",
+     "answer": "PACIFIC"
+   },
+   {
+     "index": 293,
+     "question": "Bird, Coat of Arms, Country",
+     "answer": "GARUDA"
+   },
+   {
+     "index": 294,
+     "question": "Objects, Roofs, Houses",
+     "answer": "TILE"
+   },
+   {
+     "index": 295,
+     "question": "Mountain, Highest, World",
+     "answer": "EVEREST"
+   },
+   {
+     "index": 296,
+     "question": "Excavations, Objects, Ancient",
+     "answer": "ARCHAEOLOGY"
+   },
+   {
+     "index": 297,
+     "question": "Dog, Wolf, Cute",
+     "answer": "HUSKEY"
+   },
+   {
+     "index": 298,
+     "question": "Port, Plane, Fly",
+     "answer": "AIRPORT"
+   },
+   {
+     "index": 299,
+     "question": "Animal, Neck, Length",
+     "answer": "GIRAFFE"
+   },
+   {
+     "index": 300,
+     "question": "Water, Large, Artificial",
+     "answer": "DAM"
+   },
+   {
+     "index": 301,
+     "question": "Fruit, Red, Ios",
+     "answer": "APPLE"
+   }
+]
