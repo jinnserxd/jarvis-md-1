@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919947291867"
+global.ownernomer = "96558857438"
 global.ytname = "akshaypaul198@gmail.com"
 global.socialm = "https://github.com/sparroo"
 global.location = "India, Kerala"
 global.xzn = 'sparrowofc' // https://xnz.wtf
-global.ownernumber = '919947291867'  //creator number
-global.ownername = 'sparrow' //owner name
-global.botname = 'ᴊᴀʀᴠɪs ᴍ-ᴅ' //name of the bot
+global.ownernumber = '96558857438'  //creator number
+global.ownername = '𝐉𝐈𝐍𝐍 𝐒𝐄𝐑' //owner name
+global.botname = 'ᴊɪɴɴ ꜱᴇʀ' //name of the bot
 
 //sticker details
 global.packname = '\n\n𐄁⊰᯽⊱┈❊ɪᴛᴢ ᴍᴇ 𑇇 ᴀᴋsʜᴀʏ❊┈⊰᯽⊱𐄁\n\n'
@@ -22,8 +22,7 @@ global.wm = "sparrowofc™"
 
 //theme link
 global.link = 'https://github.com/sparroo'
-global.thumburl = 'https://i.ibb.co/4Mc94Gs/IMG-20231118-WA0067.jpg'
-
+global.thumburl = 'https://i.imgur.com/RsESIea.jpeg'
 //custom prefix
 global.prefa = ['!','.','#','&']
 
